@@ -1,0 +1,15 @@
+ha.skycoffees.com
+gitea.skycoffees.com
+heimdall.skycoffees.com
+jdownloader.skycoffees.com
+jellyfin.skycoffees.com
+nextcloud.skycoffees.com
+ollama.skycoffees.com
+pihole.skycoffees.com
+portainer.skycoffees.com
+sonarr.skycoffees.com
+swingmusic.skycoffees.com
+syncthing.skycoffees.com
+tachidesk.skycoffees.com
+tdarr.skycoffees.com
+traefik.skycoffees.com

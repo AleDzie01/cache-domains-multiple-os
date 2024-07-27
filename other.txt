@@ -1,0 +1,9 @@
+bg.v4.a.dl.ws.microsoft.com
+go.microsoft.com
+download.sysinternals.com
+download.visualstudio.microsoft.com
+definitionupdates.microsoft.com
+dht.transmissionbt.com
+router.utorrent.com
+router.bitcomet.com
+dht.aelitis.com
