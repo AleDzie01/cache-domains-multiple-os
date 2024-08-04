@@ -24,6 +24,8 @@ Currently Debian and Arch based distros are supported including:
 
 MacOS support tested on macOS-Ventura, while ChromeOS support has been added for testing.
 
+Note: does not work with IPv6, so if it does not work check your IPv6 protocol settings.
+
 ## Usage
 
 You can use this list one of two ways:
